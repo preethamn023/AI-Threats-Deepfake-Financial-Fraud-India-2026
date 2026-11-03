@@ -1,5 +1,11 @@
 # AI THREATS – EMERGING RISKS AND REAL-WORLD INCIDENTS
 
+**Student Name:** Preetham N  
+**Course:** Master of Computer Applications (MCA)  
+**Subject:** AGENTIC AI.
+**Academic Year:** 2026–2027
+
+---
 ## 1. Title of the Threat
 **AI-Generated Deepfake Videos Used for Financial Fraud: The Tamil Nadu Chief Minister Vijay Case (September 2026)**
 
